@@ -15,6 +15,8 @@ Pytorch simple implementation yolov5s, for learn or understand easily myself. Of
 ├── yolov5s_pretrain.pth  
 └── yolov5s.pt  
 
+The pretrained model yolov5s_pretrain.pth is available at [baidudisk](https://pan.baidu.com/s/1YoUUI8Vt5WO0y9pqVhBMwQ), passwd:jctt
+
 ## Installation
 Refer to the actions of [yolov5](https://github.com/ultralytics/yolov5).
 
